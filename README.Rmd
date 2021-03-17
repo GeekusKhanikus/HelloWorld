@@ -31,4 +31,44 @@
 # (Alphabetically, not in order of preference)
 # Dislikes: Infectious pathogens, global pandemics and people who laugh when saying:
                     "What could possibly go wrong?"
+# ** Science - as in all of it, you know... life, the universe... everything***. 
+# *** Except for politics, religion, "corporate ethics" and economic theory.
+#       - they just confuse the heck out of me.
+```
+```{r}
+print("Don't look at me, I'm irrelevant - From 'The Young Ones'")
+# Favorite quotes:
+
+# Pinky: Gee, Brain, what do you want to do tonight?
+# Brain: The same thing we do every night, Pinky - try to take over the world!
+# xkcd.com/267:
+#              "Remember that you are always
+#                      making up the future as you go."
+# Bruce Lee:
+#          "Mistakes are always forgivable,
+#                 if one has the courage to admit them."
+
+# xkcd.com/150:
+#        "Because we're grownups now
+#  and it's our turn to decide what that means."
+
+# Bruce Lee (again):
+#                "Adapt what is useful,
+#                   reject what is useless,
+#        and add what is specifically your own."
+
+
+# xkcd.com/154/:
+#             "The universe doesn't care what you believe.
+#                 The wonderful thing about science is that
+#                     it doesn't ask for your faith,
+#                       it just asks for your eyes."
+
+# Another B.L. :
+#          "If you spend too much time thinking about a[ny]thing,
+#                             you'll never get it done."
+           
+
+# xkcd.com/1942:
+#                        "This quote was taken out of context."
 ```
