@@ -1,0 +1,76 @@
+```{r include=TRUE, echo=TRUE}
+# HelloWorld.R
+
+#- 👋 Hi, I’m @GeekusKhanikus
+#- 🌱 I’m currently a **BSc student at Macquarie University, NSW, Australia**.
+# I'm learning R for data science in my own time using the following resources:
+# bookdown: Authoring Books and Technical Documents with R Markdown - https://bookdown.org/yihui/bookdown/
+# R Markdown: The Definitive Guide - https://bookdown.org/yihui/rmarkdown/
+# R for Data Science - r4ds.had.co.nz/index.html 
+# Introduction to Data Science - https://rafalab.github.io/dsbook/
+# Statistical Inference via Data Science - https://moderndive.com/
+# 
+
+# datacamp.com - enrolled in the "Data scientist with R" using my personal email, not my student one.
+# enki - android app (it's actually kinda helpul to morons such as myself).
+# The shapes of clouds to predict the future of predictive algorithms... but not really.
+
+#- 💞️ **I’m looking to collaborate on** ... 
+# being better at life in general, imaginary friend generators &/or offering new / improved personalities to those in need. 
+# Failing that - anything relating to vertical farming, aquaculture (algae, fish), autonomous agriculture
+
+#- 📫 How to reach me ... well, as telepathy still isn't feasible technologically speaking... 
+# Do try reaching out to me here, or find me on LinkedIn.
+
+#- 👀 About this individual:  Human, Male.
+
+# Has been known to be outsmarted by women, cats, small wild birds who make it indoors, 
+# buttons labeled "Do not push this button"... and the occasional goldfish.
+
+# Likes: Breathing, Coffee, Music, Science** and Sleeping.
+# (Alphabetically, not in order of preference)
+# Dislikes: Infectious pathogens, global pandemics and people who laugh when saying:
+                    "What could possibly go wrong?"
+```
+
+```{r}
+print("Don't look at me, I'm irrelevant - From 'The Young Ones'")
+# Favorite quotes:
+
+# Pinky: Gee, Brain, what do you want to do tonight?
+# Brain: The same thing we do every night, Pinky - try to take over the world!
+# xkcd.com/267:
+#              "Remember that you are always
+#                      making up the future as you go."
+# Bruce Lee:
+#          "Mistakes are always forgivable,
+#                 if one has the courage to admit them."
+
+# xkcd.com/150:
+#        "Because we're grownups now
+#  and it's our turn to decide what that means."
+
+# Bruce Lee (again):
+#                "Adapt what is useful,
+#                   reject what is useless,
+#        and add what is specifically your own."
+
+
+# xkcd.com/154/:
+#             "The universe doesn't care what you believe.
+#                 The wonderful thing about science is that
+#                     it doesn't ask for your faith,
+#                       it just asks for your eyes."
+
+# Another B.L. :
+#          "If you spend too much time thinking about a[ny]thing,
+#                             you'll never get it done."
+           
+
+# xkcd.com/1942:
+#                        "This quote was taken out of context."
+
+# ** Science - as in all of it, you know... life, the universe... everything***. 
+# *** Except for politics, religion, "corporate ethics" and economic theory.
+#       - they just confuse the heck out of me.
+```
